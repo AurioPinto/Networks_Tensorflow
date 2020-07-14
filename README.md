@@ -9,5 +9,5 @@ Using TensorFlow, and how, with its high level APIs you could do basic image cla
 </ul>
 
 <p align='center'>
-<img src='./pets.png'>
+<img src='./Img/pets.png'>
 </p>
